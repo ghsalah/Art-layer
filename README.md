@@ -8,23 +8,23 @@ The application delivers a sophisticated user experience with smooth animations,
 
 ## ✨ Features
 
-- 🎬 Custom animated preloader for a polished first impression  
-- 🌗 Seamless Light & Dark mode with a dedicated ThemeProvider  
-- 🖋 Elegant typography using *Marck Script*  
-- 🧩 Modular component-based architecture  
-- 🖼 Dynamic gallery and artwork showcase  
-- 🛠 Custom services section  
-- 💬 Interactive contact & testimonial modules  
-- 📱 Fully responsive design  
+- 🎬 **Custom Animated Preloader** – A cinematic first impression for every visitor.
+- 🌗 **Semantic Theming** – Seamless light and dark modes with a custom `ThemeProvider`.
+- 🖋 **Elegant Typography** – Featuring *Marck Script* for an editorial touch.
+- 🧩 **Modular Architecture** – Clean, reusable React components for scalability.
+- 🖼 **Art Showcase** – Interactive gallery modules for high-resolution artwork.
+- 🛠 **Bespoke Services** – Dedicated sections for custom framing and design services.
+- 📱 **Fully Responsive** – Optimized for premium viewing on all devices.
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Frontend:** Next.js, React  
-- **Styling:** Tailwind CSS  
-- **State & Theme:** Custom ThemeProvider  
-- **Fonts:** Marck Script  
+- **Framework:** [Next.js 14](https://nextjs.org/) (App Router)
+- **Library:** [React 18](https://reactjs.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Animations:** [Framer Motion](https://www.framer.com/motion/)
+- **Tone:** Minimalist, Editorial, Luxury
 
 ---
 
@@ -49,6 +49,19 @@ The application delivers a sophisticated user experience with smooth animations,
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/art-layer-studio.git
-cd art-layer-studio
+git clone https://github.com/ghsalah/Art-layer.git
+cd Art-layer
 npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
